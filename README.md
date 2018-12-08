@@ -1,4 +1,4 @@
-# onlinecomputerhardwaresysytem
+# Online Computer Hardware System in C
 C Mini Project | Online Computer hardware shopping System in C 
 
 This Project is developed using DEV C++ IDE.
